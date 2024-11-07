@@ -2,6 +2,8 @@
 
 This repository is part of ACC Program ARI Corporate Coaching Program 2024.
 
+![Alt Text](./ACC_demo.gif)
+
 ## Features
 
 - 
